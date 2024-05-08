@@ -15,3 +15,6 @@
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link" alt="CSS3">
 <img src="https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link" alt="JQuery">
 <img src="https://img.shields.io/badge/-Kotlin-green?style=flat&logo=kotlin&link" alt="KOTLIN">
+
+### IDEs
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;

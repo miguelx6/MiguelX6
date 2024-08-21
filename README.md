@@ -7,6 +7,7 @@
 
 ### IDEs
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android%20Studio-0078d7.svg?style=for-the-badge&logo=android-studio&logoColor=green)&nbsp;
 
 ### GitHub Stats
 ![miguelx6's Stats](https://github-readme-stats.vercel.app/api?username=miguelx6&theme=nightowl&show_icons=true&hide_border=false&count_private=true)

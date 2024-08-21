@@ -9,6 +9,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 ### GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelX6)](https://github.com/MiguelX6/github-readme-stats)
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelX6&layout=compact&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300&langs_count=11" alt="ilustração das linguagens mais usadas" style="max-width: 45%;"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelX6&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&hide_border=false" style="max-width: 100%;"/>
+![miguelx6's Stats](https://github-readme-stats.vercel.app/api?username=miguelx6&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
+![miguelx6's Streak](https://github-readme-streak-stats.herokuapp.com/?user=miguelx6&theme=nightowl&hide_border=false)
+![miguelx6's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelx6&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
